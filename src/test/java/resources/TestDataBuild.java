@@ -39,6 +39,8 @@ public class TestDataBuild {
 		System.out.println("test string 1");
 		System.out.println("test string 2");
 		System.out.println("test string 3");
+		System.out.println("test string 4");
+		System.out.println("test string 5");
 		
 		
 		return "{\r\n    \"place_id\":\"" + place_id + "\"\r\n}";
